@@ -1,4 +1,4 @@
-# Wrangle and Analyze Data
+# Wrangle and Analyze the Dataset of WeRateDogs Twitter Archive
 
 This is a personal project which focuses on the *data wrangling* step in the entire data analysis process, along with presenting several insights extracted from the cleaned datasets.
 
