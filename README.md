@@ -16,7 +16,7 @@ Like previous projects, it is recommended to use a temporary Jupyter server offe
 
 ### Additional Information
 
-In this repository, there are also some static, soft copies of the Jupyter notebook files created in HTML format by using [nbconvert](https://nbconvert.readthedocs.io), which are provided for your convenience. You can see the results of the project directly without running program code, especially when you use some online preview services such as [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) to render them.
+In this repository, there are also some static, soft copies of the Jupyter notebook files created in HTML format by using [nbconvert](https://nbconvert.readthedocs.io), which are provided for your convenience. You can see the results of the project directly online without running program code, especially when you use some online preview services such as [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) to render them.
 
 ### License
 
