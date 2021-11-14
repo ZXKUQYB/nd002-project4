@@ -1,6 +1,6 @@
 # Wrangle and Analyze Data
 
-This is a personal project which focuses on the data wrangling step in the entire data analysis process, along with presenting several insights extracted from the cleaned datasets.
+This is a personal project which focuses on the *data wrangling* step in the entire data analysis process, along with presenting several insights extracted from the cleaned datasets.
 
 ### Instructions
 
