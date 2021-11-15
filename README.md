@@ -12,11 +12,11 @@ The project is composed of 3 separate Jupyter notebook files.
 
 Feel free to download any of the Jupyter notebook files listed above to have a look at the project contents.
 
-Like previous projects, it is recommended to use a temporary Jupyter server offered by [Project Jupyter](https://jupyter.org/try) to setup a test run of these notebooks. Be sure to choose **JupyterLab** when you get your temporary Jupyter server, since it comes with all the Python modules needed for this project already installed. But of course, you can also run it in your own local environment instead, but the instructions to configure a local environment will not be covered here.
+Like previous projects, it is recommended to use a temporary Jupyter server offered by [Project Jupyter](https://jupyter.org/try) to setup a test run of these notebooks. Be sure to choose **JupyterLab** when you get your temporary Jupyter server, since it comes with all the Python modules needed for this project already installed. And of course, you can also run it in your own local environment instead, but the instructions to configure a local environment will not be covered here.
 
 ### Additional Information
 
-In this repository, there are also some static, soft copies of the Jupyter notebook files created in HTML format by using [nbconvert](https://nbconvert.readthedocs.io), which are provided for your convenience. You can see most of the project results directly online without running program code, especially when you use some online preview services such as [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) to render them. This means you should still download these HTML documents if you want to read the fully rendered contents.
+In this repository, there are also some static, soft copies of the Jupyter notebook files created in HTML format by using [nbconvert](https://nbconvert.readthedocs.io), which are provided for your convenience. You can see most of the project results directly online without running program code, especially when you use some online preview services such as [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) to render them. This means you should still download these HTML documents if you want to ensure you read the fully rendered contents.
 
 ### Issues
 
