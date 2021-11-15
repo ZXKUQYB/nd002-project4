@@ -18,6 +18,10 @@ Like previous projects, it is recommended to use a temporary Jupyter server offe
 
 In this repository, there are also some static, soft copies of the Jupyter notebook files created in HTML format by using [nbconvert](https://nbconvert.readthedocs.io), which are provided for your convenience. You can see the results of the project directly online without running program code, especially when you use some online preview services such as [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) to render them.
 
+### Issues
+
+It seems that some of the plots in the project created by Bokeh will not show the toolbar correctly if you are using the latest version (currently 2.4.1) to run the program code in the Jupyter notebook. Downgrade the Bokeh version to 2.3.3 and the problem should be gone then.
+
 ### License
 
 The contents of this repository are covered under the [GNU General Public License v3.0](https://github.com/ZXKUQYB/nd002-project4/blob/main/LICENSE).
